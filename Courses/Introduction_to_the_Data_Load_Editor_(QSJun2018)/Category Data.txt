@@ -1,0 +1,6 @@
+Category ID	Purchase Category		
+C0128	Office Supplies		
+C7129	Outsourced Services		
+C3795	Meal Catering		
+C5209	Employee Rewards		
+C4294	Client Appreciation		
