@@ -1,0 +1,37 @@
+```sql
+LIB CONNECT TO 'SOPacess';
+
+
+//
+OrderDetails:
+      //You can not reference newly-created fields within the same load block
+LOAD *, //Will load all the previously atributes
+    LinePreDiscount * Quantity * ( 1 - Discount)
+    	AS LineSalesAmount;
+    
+    
+LOAD Discount,
+    LineNo,
+    OrderID,
+    ProductID,
+    Quantity,
+    UnitPrice,
+    //Nova coluna calculada
+    UnitPrice * Quantity 
+    	AS LinePreDiscount;
+
+
+SQL SELECT Discount,
+    LineNo,
+    OrderID,
+    ProductID,
+    Quantity,
+    UnitPrice
+FROM orderdetails;
+
+//The data flows upwards
+//    ^
+//    |
+
+
+```
