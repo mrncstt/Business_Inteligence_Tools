@@ -14,6 +14,7 @@ I really enjoy to make beautiful graphs tell better stories. The <b>storytelling
       <th>Course</th>
       <th>Duration</th>
       <th>Status</th>
+      <th>Materials & Certificate</th>
     </tr>
   
     <tr>
@@ -25,9 +26,11 @@ I really enjoy to make beautiful graphs tell better stories. The <b>storytelling
     
     <tr>
       <td>Qlik</td>
-      <td>Data Architect</td>
-      <td>2 Weeks-On Going</td>
-      <td>:black_nib: In progress</td>
+      <td>Data Architect - Associating Tables and Transforming Data (QS Jun 2018)</td>
+      <td>Going</td>
+      <td>:white_check_mark: Done</td>
+      <td> <a href="https://github.com/mrncstt/Business_Inteligence_Tools/tree/master/Courses/Associating_Tables_and_Transforming_Data_(QSJun2018)">Material</a> </td>
+   
     </tr>
        <tr>
       <td>DSA</td>
@@ -37,4 +40,4 @@ I really enjoy to make beautiful graphs tell better stories. The <b>storytelling
     </tr>
    </table>
    
-  [Certificates](https://github.com/mrncstt/certificates/blob/master/README.md)
+
