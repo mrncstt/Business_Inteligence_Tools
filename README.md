@@ -19,10 +19,11 @@ I really enjoy to make beautiful graphs tell better stories. The <b>storytelling
   
     <tr>
       <td>Qlik</td>
-      <td>Business Analyst</td>
-      <td>2 Weeks-On Going</td>
-      <td>:black_nib: In progress</td>
-    </tr>
+      <td>Data Architect -Introduction to the Data Load Editor (QS Jun 2018)</td>
+      <td>Going</td>
+      <td>:white_check_mark: Done</td>
+      <td> <a href="https://github.com/mrncstt/Business_Inteligence_Tools/blob/master/Courses/Introduction_to_the_Data_Load_Editor_(QSJun2018)/readme.md">Material</a> </td>
+    </tr> 
     
     <tr>
       <td>Qlik</td>
@@ -30,13 +31,13 @@ I really enjoy to make beautiful graphs tell better stories. The <b>storytelling
       <td>Going</td>
       <td>:white_check_mark: Done</td>
       <td> <a href="https://github.com/mrncstt/Business_Inteligence_Tools/tree/master/Courses/Associating_Tables_and_Transforming_Data_(QSJun2018)">Material</a> </td>
-   
-    </tr>
-       <tr>
+    </tr> 
+    
+   <tr>
       <td>DSA</td>
       <td>Microsoft Power BI to Data Science</td>
       <td>52 hours</td>
-      <td>:chart_with_upwards_trend: Done</td>
+      <td>:white_check_mark: Done</td>
     </tr>
    </table>
    
