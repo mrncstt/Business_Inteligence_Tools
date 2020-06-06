@@ -18,7 +18,7 @@ I really enjoy to make beautiful graphs tell better stories. The <b>storytelling
     </tr>
   
     <tr>
-      <td>Qlik</td>
+      <td>Qlik </td>
       <td>Data Architect -Introduction to the Data Load Editor (QS Jun 2018)</td>
       <td>0.5h</td>
       <td>:white_check_mark: Done</td>
@@ -31,6 +31,14 @@ I really enjoy to make beautiful graphs tell better stories. The <b>storytelling
       <td>0.5h</td>
       <td>:white_check_mark: Done</td>
       <td> <a href="https://github.com/mrncstt/Business_Inteligence_Tools/tree/master/Courses/Associating_Tables_and_Transforming_Data_(QSJun2018)">Material</a> </td>
+    </tr> 
+    
+    <tr>
+      <td>Qlik</td>
+      <td>Data Architect - Loading Data from a Database (QS Jun 2018)</td>
+      <td>0.5h</td>
+      <td>:white_check_mark: Done</td>
+      <td> <a href="https://github.com/mrncstt/Business_Inteligence_Tools/tree/master/Courses/Loading_Data_from_a_Database(QSJun2018)">Material</a> </td>
     </tr> 
     
    <tr>
