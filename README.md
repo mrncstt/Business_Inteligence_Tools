@@ -40,6 +40,13 @@ I really enjoy to make beautiful graphs tell better stories. The <b>storytelling
       <td>:white_check_mark: Done</td>
       <td> <a href="https://github.com/mrncstt/Business_Inteligence_Tools/tree/master/Courses/Loading_Data_from_a_Database(QSJun2018)">Material</a> </td>
     </tr> 
+   <tr>
+      <td>DataAcademy</td>
+      <td>Qlik Sense Análises de Informações Fundamental</td>
+      <td>4.1h</td>
+      <td>:white_check_mark: Done</td>
+      <td> <a href="https://i.imgur.com/I6WyjAw.png">Certificate</a> </td>
+    </tr>  
     
    <tr>
       <td>DSA</td>
