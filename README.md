@@ -1,14 +1,19 @@
 # Business Inteligence Tools
 
 
-![](https://i.imgur.com/UIjTk70.png)
+![](https://cdn.educba.com/academy/wp-content/uploads/2018/12/power-bi-vs-tableau-vs-qlik-1.jpg)
 
-I really enjoy to make beautiful graphs tell better stories. The <b>storytelling</b> is one of my life goals. So, I started my journey to be a good storyteller using, at this time, Qlik Sense and Microsoft Power BI.
+I really enjoy to make beautiful graphs tell better stories. The <b>storytelling</b> is one of my life goals. So, on my journey I already used Tableau, Qlik and  Microsoft Power BI.
 
-- ![#0D16B6](https://placehold.it/15/2cc96b/000000?text=+) `Qlik Sense` and ![#F1F01A](https://placehold.it/15/F1F01A/000000?text=+) `Power BI`
+These are some courses I've already taken.
+
+- ![#0D16B6](https://placehold.it/15/2cc96b/000000?text=+) `Qlik Sense` | ![#F1F01A](https://placehold.it/15/F1F01A/000000?text=+) `Power BI` | 🟦 `Tableau`
+
+I need to update 3 years of courses I took
 
 
-   <table>
+
+  <table>
     <tr>
       <th>Platform</th>
       <th>Course</th>
